@@ -32,5 +32,9 @@ if(GamePad.isCrossPressed()){
 " width="100%" controls></video>
 
 
+また、ボールを取る機構として採用した両面テープ付きクローラーの操作も組み込まれています。
+
+<video src="https://github.com/user-attachments/assets/563d6382-61f6-413f-ae16-4a3f35e03d7f" width="100%" controls></video>
+
 
 
