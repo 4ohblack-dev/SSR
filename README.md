@@ -28,8 +28,8 @@ if(GamePad.isCrossPressed()){
 ```
 
 テストラン動画
-https://github.com/user-attachments/assets/0bf393b1-2884-4c87-a002-765598d3a280
-
+<video src="https://github.com/user-attachments/assets/0bf393b1-2884-4c87-a002-765598d3a280
+" width="100%" controls></video>
 
 
 
