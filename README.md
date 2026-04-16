@@ -26,3 +26,11 @@ if(GamePad.isCrossPressed()){
     Serial.println("stop");
 }
 ```
+
+テストラン動画
+https://github.com/user-attachments/assets/0bf393b1-2884-4c87-a002-765598d3a280
+
+
+
+
+
